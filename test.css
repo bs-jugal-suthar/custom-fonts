@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Honk';
+    src: url('https://your-aws-bucket.s3.amazonaws.com/fonts/Honk-Regular-VariableFont_MORF,SHLN.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+  }
+  
+  /* You can add more @font-face rules for different weights or styles if needed */
+  
+  body {
+    font-family: 'Honk', sans-serif;
+  }
+  
+  .custom-text {
+    font-family: 'Honk', sans-serif;
+  }
